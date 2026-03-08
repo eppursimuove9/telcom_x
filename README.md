@@ -17,18 +17,17 @@ El modelo de retención actual de Telecom X presenta una vulnerabilidad estructu
 ### 🚨 Crisis de retención en el Onboarding (Meses 0-5)
 La antigüedad actúa como el principal escudo protector contra la evasión; sin embargo, el mayor volumen de abandonos ocurre durante los primeros meses. Se están perdiendo clientes antes de que logren consolidarse, destruyendo el *Lifetime Value* (LTV) proyectado.
 
-*(Nota: Asegúrate de reemplazar `[nombre_del_grafico_kde].png` con el nombre exacto de tu imagen en la carpeta assets)*
-![Densidad Antigüedad](assets/[nombre_del_grafico_kde].png)
+![Densidad Antigüedad](assets/antiguedad_y_churn.png)
 
 ### 🔓 Falta de lock-in comercial
 El riesgo de evasión está acaparado casi en su totalidad por los contratos mensuales. La ausencia de un compromiso a largo plazo (contratos de 1 o 2 años) elimina las barreras de salida y facilita un abandono sin fricción para el cliente.
 
-![Riesgo por Contrato](assets/[nombre_del_grafico_contrato].png)
+![Riesgo por Contrato](assets/churn_tipo_de_contrato.png)
 
 ### 💸 Fractura en la propuesta de valor High-Ticket
 Existe una correlación directa y positiva entre el nivel de facturación (cargos diarios/mensuales) y la probabilidad de *churn*. Los clientes que más pagan son los que más rápido se van, lo que indica que el valor percibido del servicio actualmente no justifica el precio premium.
 
-![Impacto de Variables](assets/[nombre_del_grafico_impacto].png)
+![Impacto de Variables](assets/correlacion_de_pearson.png)
 
 ---
 
