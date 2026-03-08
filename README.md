@@ -84,5 +84,5 @@ Los datos utilizados para este proyecto provienen de una muestra representativa 
 
 Si te interesa profundizar en el enfoque estratégico de este análisis o discutir oportunidades de colaboración, no dudes en conectar conmigo:
 
-* [LinkedIn]((https://www.linkedin.com/in/alexrojassegovia/))
+* LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/alexrojassegovia/)
 * [Email](mailto:alexrojas8922@gmail.com)
