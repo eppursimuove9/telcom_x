@@ -52,3 +52,12 @@ telcom_x/
 ├── TelcomX_Latam.ipynb     # Notebook principal con limpieza, EDA y Feature Engineering
 └── requirements.txt        # Dependencias y librerías necesarias para ejecutar el entorno
 ```
+
+## 5. Reproducibilidad
+Para clonar y ejecutar este proyecto localmente:
+
+Clona el repositorio:
+
+```git clone [https://github.com/eppursimuove9/telcom_x.git](https://github.com/eppursimuove9/telcom_x.git)```
+
+```pip install -r requirements.txt```
