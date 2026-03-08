@@ -65,3 +65,24 @@ git clone [https://github.com/eppursimuove9/telcom_x.git](https://github.com/epp
 ```bash
 pip install -r requirements.txt
 ```
+
+## 6. Stack Tecnológico
+
+Este análisis fue desarrollado íntegramente en Python, priorizando un código limpio, modular y orientado a la eficiencia computacional:
+
+* **Manipulación y limpieza de datos:** `pandas`, `numpy` (Aplanamiento de JSON, imputación de nulos, Feature Engineering).
+* **Visualización de alto impacto:** `matplotlib`, `seaborn` (Diseño de gráficos con formato ejecutivo y alta densidad de información).
+* **Entorno:** Jupyter Notebook / Google Colab.
+
+## 7. Sobre el Dataset
+
+Los datos utilizados para este proyecto provienen de una muestra representativa de la industria de telecomunicaciones, enfocada en métricas de retención mensual, variables demográficas, tipos de suscripción y comportamiento de pago. El proceso incluyó la desanidación de estructuras complejas (JSON) para convertirlas en variables tabulares viables para el modelado.
+
+## 8. Autor y Contacto
+
+**Alex Rojas Segovia** *Estratega de Datos y Negocios*
+
+Si te interesa profundizar en el enfoque estratégico de este análisis o discutir oportunidades de colaboración, no dudes en conectar conmigo:
+
+* [LinkedIn]([TU_LINK_DE_LINKEDIN_AQUI](https://www.linkedin.com/in/alexrojassegovia/))
+* [Email](mailto:alexrojas8922@gmail.com)
