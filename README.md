@@ -58,6 +58,10 @@ Para clonar y ejecutar este proyecto localmente:
 
 Clona el repositorio:
 
-```git clone [https://github.com/eppursimuove9/telcom_x.git](https://github.com/eppursimuove9/telcom_x.git)```
+```bash
+git clone [https://github.com/eppursimuove9/telcom_x.git](https://github.com/eppursimuove9/telcom_x.git)
+```
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
