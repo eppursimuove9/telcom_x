@@ -48,7 +48,7 @@ El proyecto sigue una estructura estandarizada para facilitar la reproducibilida
 telcom_x/
 │
 ├── assets/                 # Gráficos de alta resolución exportados del EDA
+├── README.md               # Documentación ejecutiva del proyecto
 ├── TelcomX_Latam.ipynb     # Notebook principal con limpieza, EDA y Feature Engineering
-├── requirements.txt        # Dependencias y librerías necesarias para ejecutar el entorno
-└── README.md               # Documentación ejecutiva del proyecto
+└── requirements.txt        # Dependencias y librerías necesarias para ejecutar el entorno
 ```
